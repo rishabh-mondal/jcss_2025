@@ -19,7 +19,7 @@
 
 - [**Download**: Download Quads of Planet Imagery](data_details/download_planet_quads.ipynb)
 
-- **Processing**: Data preprocessing from Quads and generate YOLO format labels (data_and_label_preprocessing.ipynb)
+- [**Processing**: Data preprocessing from Quads and generate YOLO format labels](data_details/data_and_label_preprocessing.ipynb)
 
 ---
 
