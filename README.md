@@ -16,7 +16,7 @@
 ## 📊 Data Details
 
 - **Satellite imagery - Planet Labs**
-- [**Download**: Download Quads of Planet Imagery](download_planet_quads.ipynb)
+- [**Download**: Download Quads of Planet Imagery](data_details/download_planet_quads.ipynb)
 - **Processing**: Preprocessing steps, annotation formats, and resolutions
 - **Access**: [Add data access info or links here if publicly available]
 
