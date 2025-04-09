@@ -61,17 +61,40 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="data-details" class="level2">
 <h2 class="anchored" data-anchor-id="data-details">📊 Data Details</h2>
+<ol type="1">
+<li><p><strong>Satellite Imagery – Planet Labs</strong></p>
 <ul>
-<li><strong>Satellite imagery - Planet Labs</strong></li>
-<li><a href="data_details/download_planet_quads.ipynb"><strong>Download</strong>: Download Quads of Planet Imagery</a></li>
-<li><strong>Processing</strong>: Preprocessing steps, annotation formats, and resolutions</li>
-<li><strong>Access</strong>: [Add data access info or links here if publicly available]</li>
-</ul>
+<li><p>📥 <a href="data_details/download_planet_quads.ipynb"><strong>Download Quads of Planet Imagery</strong></a><br>
+Notebook for downloading PlanetScope imagery tiles (quads) for selected regions.</p></li>
+<li><p>⚙️ <a href="data_details/data_and_label_preprocessing.ipynb"><strong>Preprocessing &amp; Label Generation</strong></a><br>
+Converts Planet imagery quads into usable inputs and generates YOLO-format labels for detection.</p></li>
+</ul></li>
+</ol>
 <hr>
 </section>
 <section id="code-details" class="level2">
 <h2 class="anchored" data-anchor-id="code-details">🧠 Code Details</h2>
-<p>Details on code structure and usage: - <strong>Environment setup</strong>: <code>requirements.txt</code> or <code>environment.yml</code> - <strong>Structure</strong>: - <code>src/</code>: core modules and scripts - <code>notebooks/</code>: exploratory data analysis and visualization - <code>models/</code>: training and evaluation - <strong>Usage</strong>: - Training: <code>python train.py --config config.yaml</code> - Inference: <code>python infer.py --input input_image.png</code></p>
+<ol type="1">
+<li><p><strong>Training and Evaluation</strong></p>
+<ul>
+<li><p>🏋️ <a href="code_details/runner.sh"><strong>Training Models</strong></a><br>
+Train different models on the initial dataset.</p></li>
+<li><p>📊 <a href="code_details/map_numbers.ipynb"><strong>Table 3 — Model Performance</strong></a><br>
+Performance of various models on the initial dataset, including mAP (Mean Average Precision) calculations.</p></li>
+</ul></li>
+<li><p><strong>Compliance Monitoring</strong></p>
+<ul>
+<li>🏛️ <a href="code_details/compliance_monitoring.ipynb"><strong>Table 5 — Compliance Monitoring</strong></a><br>
+Automatic compliance detection of brick kilns across states based on state-wise and central environmental policies.</li>
+</ul></li>
+<li><p><strong>Emission</strong></p>
+<ul>
+<li><p>🌫️ <a href="code_details/table-emission_rates.ipynb"><strong>Table 6 — Emission Rates by Kiln Type</strong></a><br>
+Emission rates (in g/kg of fired brick) for different kiln technologies, based on prior studies.</p></li>
+<li><p>🌍 <a href="code_details/table-emission_rates.ipynb"><strong>Table 7 — State-wise Production &amp; Emissions</strong></a><br>
+Daily brick production and estimated emissions (in tonnes) for each state.</p></li>
+</ul></li>
+</ol>
 <hr>
 </section>
 <section id="figures" class="level2">
