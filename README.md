@@ -51,21 +51,23 @@
     Daily brick production and estimated emissions (in tonnes) for each state.
 
 
-
-
-
-
 ---
 
 
 ## 📈 Figures
 
+1. **Spatial Distribution**
+
     - 🗺️ [**Fig. 4 — Kiln Locations Across States**](figure_details/figure-brick-kiln-locations.ipynb)  
     Brick kiln locations across five states of the Indo-Gangetic Plain, India.
+
+2. **Survey Comparison**
 
     - 🧮 [**Fig. 5 — District-wise Kiln Counts in Uttar Pradesh**](figure_details/figure-up_comparison_with_survey.ipynb)  
     Comparison of district-wise brick kiln counts in Uttar Pradesh:  
     (a) UPPCB 2023 survey vs. (b) our hand-validated data.
+
+3. **Temporal Analysis**
 
     - 🔄 [**Fig. 6 — Kiln Technology Evolution (2010–2022)**](figure_details/brick_kilns_conversion.ipynb)  
     Brick kiln technology transition over 12 years for two NCAP non-attainment city airsheds:  
