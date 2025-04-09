@@ -57,11 +57,17 @@
 
 ---
 
+
 ## 📈 Figures
 
-Key visuals from the paper and project:
-- Brick kiln detection pipeline diagram
-- Before/after compliance transformation results
-- Geographic kiln distribution maps
-- [Optional] Embed visuals using `![caption](path/to/image.png)`
-Le
+    - 🗺️ [**Fig. 4 — Kiln Locations Across States**](figure_details/figure-brick-kiln-locations.ipynb)  
+    Brick kiln locations across five states of the Indo-Gangetic Plain, India.
+
+    - 🧮 [**Fig. 5 — District-wise Kiln Counts in Uttar Pradesh**](figure_details/figure-up_comparison_with_survey.ipynb)  
+    Comparison of district-wise brick kiln counts in Uttar Pradesh:  
+    (a) UPPCB 2023 survey vs. (b) our hand-validated data.
+
+    - 🔄 [**Fig. 6 — Kiln Technology Evolution (2010–2022)**](figure_details/brick_kilns_conversion.ipynb)  
+    Brick kiln technology transition over 12 years for two NCAP non-attainment city airsheds:  
+    (a) Delhi Airshed and (b) Lucknow Airshed.
+
