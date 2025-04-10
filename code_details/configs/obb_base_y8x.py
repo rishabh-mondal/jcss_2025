@@ -1,5 +1,4 @@
 model = "yolov8x-obb.pt"
-# model = "/home/patel_zeel/kiln_compass_24/runs/obb/config_name=obb_base&train_folder=m0_obb_without_empty_train&val_folder=m0_obb_without_empty_val/weights/best.pt"
 image_size = 640
 epochs = 1000
 train_args = {
