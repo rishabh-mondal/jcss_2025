@@ -1,6 +1,6 @@
 # **🌍 Space to Policy: Scalable Brick Kiln Detection and Automatic Compliance Monitoring with Geospatial Data**
 
-📄 [**Space to Policy: Scalable Brick Kiln Detection and Automatic Compliance Monitoring with Geospatial Data**](https://arxiv.org/pdf/2412.04065) — *Zeel et al.*
+📄 [**Space to Policy: Scalable Brick Kiln Detection and Automatic Compliance Monitoring with Geospatial Data**](https://arxiv.org/pdf/2412.04065) — *Patel et al.*
 
 🌐 Explore the interactive project page: [Brick-Kilns](https://sustainability-lab.github.io/brick-kilns)
 
